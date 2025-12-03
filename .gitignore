@@ -1,0 +1,77 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optional - uncomment if you don't want to track large datasets)
+# *.csv
+# *.xlsx
+# *.pbix
+
+# Documentation files created during troubleshooting (keep README.md and LICENSE)
+CHANGES_SUMMARY.md
+DATA_LOADING_FIX.md
+FINAL_FIX_COMPLETE.md
+FINAL_INSTRUCTIONS.md
+FIXES_APPLIED.md
+HOW_TO_RUN.md
+INDEX.md
+INSTALLATION_GUIDE.md
+NOTEBOOK_EXECUTION_GUIDE.md
+NOTEBOOK_FIXED.md
+NOTEBOOK_READY.md
+PROJECT_COMPLETE.md
+PROJECT_STATUS.md
+README_FIXES.md
+SETUP.md
+START_HERE.md
+WORK_COMPLETED.txt
+
+# Utility scripts created during troubleshooting
+analyze_notebook.py
+check_environment.py
+check_unexecuted.py
+fix_checkpoint.py
+fix_data_paths.py
+fix_notebook.py
+fix_notebook_data_loading.py
+fix_paths_absolute.py
+run_notebook_check.py
+test_data_loading.py
+test_from_root.py
+test_imports.py
+
+# Batch files
+open_notebook.bat
