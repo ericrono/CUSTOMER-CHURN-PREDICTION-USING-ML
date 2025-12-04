@@ -41,22 +41,9 @@ Thumbs.db
 # *.pbix
 
 # Documentation files created during troubleshooting (keep README.md and LICENSE)
-CHANGES_SUMMARY.md
-DATA_LOADING_FIX.md
-FINAL_FIX_COMPLETE.md
-FINAL_INSTRUCTIONS.md
-FIXES_APPLIED.md
-HOW_TO_RUN.md
-INDEX.md
-INSTALLATION_GUIDE.md
-NOTEBOOK_EXECUTION_GUIDE.md
-NOTEBOOK_FIXED.md
-NOTEBOOK_READY.md
-PROJECT_COMPLETE.md
-PROJECT_STATUS.md
-README_FIXES.md
-SETUP.md
-START_HERE.md
+*.md
+!README.md
+!LICENSE.md
 WORK_COMPLETED.txt
 
 # Utility scripts created during troubleshooting
